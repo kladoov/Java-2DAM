@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/alekk/OneDrive%20-%20Consejería%20de%20Educación,%20Cultura%20y%20Deportes%20Castilla%20La-Mancha/2º%20DAM/AD/UT1/JAXB/CineJAXB/src/Cine.xsd" uri="xml-resources/jaxb/BindingCine/Cine.xsd"/>
+</catalog>
