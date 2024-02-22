@@ -5,3 +5,4 @@ Java Works in 2DAM (Cross-platform application development)
 - Data access exercises with JAXB
 - Driver connector (MySQL): managing phpAdmin, Oracle
 - Exercise that executes the process in Windows, JAVA/Process name of the JAVA package
+- TCP/UDP client and server.
